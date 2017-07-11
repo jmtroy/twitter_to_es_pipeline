@@ -1,0 +1,122 @@
+2017-06-26 18:25:57.410 (PID: 28595) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2017-06-26 18:25:57.594 (PID: 28595) ERROR producer - Error creating stream: InvalidArgumentException: Firehose is unable to assume role arn:aws:iam::<YOUR ACCOUNT ID>:role/083781070261:role/firehose_delivery_role_jmtroy2cli. Please check the role provided.
+2017-06-26 18:28:51.102 (PID: 28633) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2017-06-26 18:28:51.296 (PID: 28633) ERROR producer - Error creating stream: InvalidArgumentException: Firehose is unable to assume role arn:aws:iam::083781070261:role/083781070261:role/firehose_delivery_role_jmtroy2cli. Please check the role provided.
+2017-06-26 18:44:50.044 (PID: 28690) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2017-06-26 18:44:50.590 (PID: 28690) ERROR producer - Error creating stream: InvalidArgumentException: Firehose is unable to assume role arn:aws:iam::083781070261:role/083781070261:role/firehose_delivery_role_twitter_stream. Please check the role provided.
+2017-06-26 18:56:17.253 (PID: 28714) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2017-06-26 18:56:18.144 (PID: 28714) ERROR producer - Error creating stream: UnknownEndpoint: Inaccessible host: `firehose.us-west-1.amazonaws.com'. This service may not be available in the `us-west-1' region.
+2017-06-26 18:57:36.459 (PID: 28720) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2017-06-26 18:57:36.913 (PID: 28720) ERROR producer - Error creating stream: InvalidArgumentException: Firehose is unable to assume role arn:aws:iam::083781070261:role/083781070261:role/firehose_delivery_role_twitter_stream. Please check the role provided.
+2017-06-27 14:03:09.224 (PID: 764) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2017-06-27 14:03:09.413 (PID: 764) ERROR producer - Error creating stream: InvalidArgumentException: Firehose is unable to assume role arn:aws:iam::083781070261:role/083781070261:role/firehose_delivery_role_twitter_stream. Please check the role provided.
+2017-06-27 14:20:46.632 (PID: 857) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2017-06-27 14:20:47.115 (PID: 857) INFO producer - twitter-delivery-stream stream does not exist. Created a new stream with that name.
+2017-06-27 14:20:47.237 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:20:49.272 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:20:51.308 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:20:53.336 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:20:55.504 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:20:57.532 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:20:59.566 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:01.599 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:03.633 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:05.664 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:07.692 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:09.730 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:11.773 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:13.806 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:15.837 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:17.862 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:19.886 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:22.142 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:24.170 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:26.209 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:28.239 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:30.276 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:32.321 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:34.357 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:36.397 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:38.434 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:40.467 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:42.500 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:44.531 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:46.565 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:48.591 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:50.624 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:52.661 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:54.694 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:56.868 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:21:58.899 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:00.929 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:02.958 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:04.988 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:07.025 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:09.060 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:11.096 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:13.123 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:15.151 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:17.178 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:19.207 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:21.236 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:23.265 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:25.295 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:27.326 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:29.359 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:31.387 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:33.421 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:35.449 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:37.476 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:39.499 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:41.535 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:43.557 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:45.583 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:47.611 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:49.669 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:51.694 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:53.725 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:55.751 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:57.778 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:22:59.804 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:23:01.833 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:23:03.870 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:23:05.897 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:23:07.930 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:23:09.965 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:23:12.002 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:23:14.035 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:23:16.061 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:23:18.093 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:23:20.121 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:23:22.148 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:23:24.177 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:23:26.205 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:23:28.233 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:23:30.265 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:23:32.300 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:23:34.330 (PID: 857) INFO producer - Current status of the stream is CREATING.
+2017-06-27 14:23:36.372 (PID: 857) INFO producer - Current status of the stream is ACTIVE.
+2017-06-27 17:39:26.417 (PID: 1163) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2017-06-27 17:39:26.498 (PID: 1163) INFO producer - twitter-delivery-stream stream is already created! Re-using it.
+2017-06-27 17:39:26.527 (PID: 1163) INFO producer - Current status of the stream is ACTIVE.
+2017-06-27 18:38:03.063 (PID: 1252) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2017-06-27 18:38:03.143 (PID: 1252) INFO producer - twitter-delivery-stream stream is already created! Re-using it.
+2017-06-27 18:38:03.173 (PID: 1252) INFO producer - Current status of the stream is ACTIVE.
+2017-06-28 15:35:47.158 (PID: 3475) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2017-06-28 15:35:47.220 (PID: 3475) INFO producer - twitter-delivery-stream stream is already created! Re-using it.
+2017-06-28 15:35:47.250 (PID: 3475) INFO producer - Current status of the stream is ACTIVE.
+2017-06-28 15:42:43.100 (PID: 3500) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2017-06-28 15:42:43.167 (PID: 3500) INFO producer - twitter-delivery-stream stream is already created! Re-using it.
+2017-06-28 15:42:43.201 (PID: 3500) INFO producer - Current status of the stream is ACTIVE.
+2017-06-28 15:47:18.097 (PID: 3506) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2017-06-28 15:47:18.161 (PID: 3506) INFO producer - twitter-delivery-stream stream is already created! Re-using it.
+2017-06-28 15:47:18.191 (PID: 3506) INFO producer - Current status of the stream is ACTIVE.
+2017-06-28 15:56:14.250 (PID: 3591) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2017-06-28 15:56:14.318 (PID: 3591) INFO producer - twitter-delivery-stream stream is already created! Re-using it.
+2017-06-28 15:56:14.348 (PID: 3591) INFO producer - Current status of the stream is ACTIVE.
+2017-06-28 16:01:34.915 (PID: 3627) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2017-06-28 16:01:34.970 (PID: 3627) INFO producer - twitter-delivery-stream stream is already created! Re-using it.
+2017-06-28 16:01:34.993 (PID: 3627) INFO producer - Current status of the stream is ACTIVE.
+2017-06-28 16:10:13.863 (PID: 3673) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2017-06-28 16:10:13.924 (PID: 3673) INFO producer - twitter-delivery-stream stream is already created! Re-using it.
+2017-06-28 16:10:13.953 (PID: 3673) INFO producer - Current status of the stream is ACTIVE.
